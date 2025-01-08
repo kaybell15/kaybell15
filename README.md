@@ -7,7 +7,7 @@ I'm a Cybersecurity and Data Analytics professional with a passion for solving c
 - **Data Analytics**: Skilled in Python, SQL, Tableau, and Excel for analyzing and visualizing data.
 
 ### 📂 GitHub Portfolios
-- **Cybersecurity Portfolio**: [View repositories]([https://github.com/kaybell15?tab=repositories&q=cybersecurity&type=&language=](https://github.com/kaybell15/Cybersecurity-Portfolio))
+- **Cybersecurity Portfolio**: [View repositories](https://github.com/kaybell15/Cybersecurity-Portfolio)
 - **Data Analytics Portfolio**: [View repositories](https://github.com/kaybell15?tab=repositories&q=data-analytics&type=&language=)
 
 ### 🔧 Tools & Technologies
