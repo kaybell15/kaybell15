@@ -8,7 +8,7 @@ I'm a Cybersecurity and Data Analytics professional with a passion for solving c
 
 ### 📂 GitHub Portfolios
 - **Cybersecurity Portfolio**: [View repositories](https://github.com/kaybell15/Cybersecurity-Portfolio)
-- **Data Analytics Portfolio**: [View repositories](https://github.com/kaybell15?tab=repositories&q=data-analytics&type=&language=)
+- **Data Analytics Portfolio**: [View repositories](https://github.com/kaybell15/Data-Analytics-Portfolio-)
 
 ### 🔧 Tools & Technologies
 - **Cybersecurity**: pfSense, Kali Linux, Autopsy, The Sleuth Kit, Wireshark
